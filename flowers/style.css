@@ -1,0 +1,166 @@
+.SERVICE{
+    text-align: center;
+    text-decoration:solid;
+    font-style: oblique;
+    font-size: 50px;
+    font-style: bold;
+   
+   }
+   img{
+    width:100px;
+   }
+   .visit{
+    text-align: center;
+    bottom: 300px;
+    text-decoration:solid;
+    font-style: oblique;
+    position: relative;
+    top:20px;
+    
+   }
+   .col{
+    background-color: #7D7C7C;
+    height: 140px;
+   }
+   .col1{
+    position: relative;
+    top:1000px;
+    background-color: #7D7C7C;
+    width:1425px;
+    height:490px;
+    
+   }
+   .des{
+    position: relative;
+    top:20px;
+    left:20px;
+    font-style: oblique;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   font-size: 25px;
+   }
+   .first{
+    text-align: center;
+    position: relative;
+    top:20px;
+    left:20px;
+    width: 300px;
+    border-radius: 300px;
+    left:590px;
+
+   }
+   .ot{
+    position: relative;
+    left:10px;
+    top:120px;
+    width:300px;
+    height:300px;
+    padding-top: 50px;
+   }
+   .tf{
+    position: relative;
+    left:240px;
+    width:300px;
+    height:300px;
+    top:120px;
+    padding-top: 50px;
+
+   }
+   .fs{
+    position: relative;
+    left:500px;
+    width:300px;
+    height:300px;
+    top:120px;
+    padding-top: 50px;
+   }
+   .in{
+  position: relative;
+  left:400px;
+  top:30px;
+  font-size: 30px;
+   }
+   .in1{
+    position: relative;
+    left:650px;
+    font-size: 30px;
+    top:30px;
+   }
+   .in3{
+    position: relative;
+    left:900px;
+    font-size: 30px;
+    top:30px;
+   }
+   .event{
+    position: relative;
+    top:70px;
+    left:90px;
+    font-size: 30px;
+   }
+   .song{
+    width:450px;
+    height:450px;
+    position: relative;
+    left:3px;
+    padding:20px;
+   }
+   .plant{
+    font-size: 50px;
+    position: relative;
+    left:200px;
+    top:-100px;
+   }
+   .plant1{
+
+ font-size: 50px;
+    position: relative;
+    left:200px;
+    top:-200px;
+   }
+   .plant2{
+
+    font-size: 50px;
+       position: relative;
+       left:470px;
+       top:-338px;
+      }
+.song2{
+    width:450px;
+    height:450px;
+    position: relative;
+    padding:20px;
+}
+.phone{
+    position: relative;
+    left:30px;
+}
+.sure{
+    position: relative;
+    left:90px;
+    font-size: 30px;
+}
+.style{
+    left:30px;
+    background-color: #7D7C7C;
+}
+.anima{
+    text-align: center;
+    position: relative;
+    left:600px;
+}
+.descri{
+    text-align: center;
+}
+.eye{
+ position: relative;
+ left:450px;
+ top:60px;
+}
+.eyes{
+    position: relative;
+    left:20px;
+    top:60px;
+    font-style: bold;
+   }
+   
